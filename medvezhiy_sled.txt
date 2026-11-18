@@ -1,1 +1,1 @@
-game-worker-hosts-must.trycloudflare.com
+associations-jobs-row-lamp.trycloudflare.com
